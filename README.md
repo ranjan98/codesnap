@@ -26,7 +26,7 @@ npm install -g codesnap
 Or run locally:
 
 ```bash
-git clone https://github.com/yourusername/codesnap.git
+git clone https://github.com/ranjan98/codesnap.git
 cd codesnap
 npm install
 npm run build
@@ -219,7 +219,7 @@ Specify manually with `--language` flag if needed.
 Found a bug? Want a new theme?
 
 ```bash
-git clone https://github.com/yourusername/codesnap.git
+git clone https://github.com/ranjan98/codesnap.git
 cd codesnap
 npm install
 npm run dev capture test.js
