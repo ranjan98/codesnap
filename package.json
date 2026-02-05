@@ -20,7 +20,7 @@
     "cli",
     "developer-tools"
   ],
-  "author": "",
+  "author": "ranjan98",
   "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.2",
