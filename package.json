@@ -2,7 +2,7 @@
   "name": "codesnap",
   "version": "1.0.0",
   "description": "Beautiful code screenshots from the command line",
-  "main": "dist/index.js",
+  "main": "dist/cli.js",
   "bin": {
     "codesnap": "./dist/cli.js"
   },
